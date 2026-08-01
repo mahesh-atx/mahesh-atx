@@ -31,11 +31,6 @@
 
 <h1 align="left"><samp> /stats </samp></h1>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahesh-atx&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=8b949e&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahesh-atx&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" alt="Top Langs" />
-</p>
-
 <br>
 
 <p align="center">
@@ -45,7 +40,7 @@
 <h1 align="left"><samp> /contributions </samp></h1>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh-atx&bg_color=0d1117&color=ffffff&line=8b949e&point=f0f6fc&area=true&hide_border=true&title_color=ffffff&custom_title=Contribution%20Map" alt="Contribution Map" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh-atx&bg_color=0d1117&color=ffffff&line=8b949e&point=f0f6fc&area=true&hide_border=true&title_color=ffffff&custom_title=Contribution%20Map" alt="Contribution Map" />
 </p>
 
 <br>
