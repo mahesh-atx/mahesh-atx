@@ -61,6 +61,16 @@
 <div align="center">
   <img src="download.gif" width="100%" height="250" style="object-fit: cover;" alt="Cityscape Wallpaper" />
 </div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:161b22,50:111111,100:0d1117" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:161b22,50:111111,100:0d1117" width="100%" />
 </div>
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+
+
+<!-- /code_chunk_output -->
+
