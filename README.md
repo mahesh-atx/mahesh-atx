@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:161b22,50:111111,100:0d1117&text=Mahesh%20ATX&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20clean%20software%20one%20commit%20at%20a%20time&descAlignY=58&descColor=c9d1d9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00c6ff,100:0072ff&text=Mahesh%20ATX&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20clean%20software%20one%20commit%20at%20a%20time&descAlignY=58&descColor=c9d1d9" />
 
 <h3 align="center">
   <samp>&gt; developer • builder • problem solver _</samp>
@@ -59,18 +59,10 @@
 </p>
 
 <div align="center">
-  <img src="download.gif" width="100%" height="250" style="object-fit: cover;" alt="Cityscape Wallpaper" />
+  <img src="download (3).jpg" width="100%" height="130" style="object-fit: cover;" alt="Cityscape Wallpaper" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:161b22,50:111111,100:0d1117" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0072ff,100:00c6ff" width="100%" />
 </div>
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
-
-
-<!-- /code_chunk_output -->
 
