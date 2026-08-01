@@ -1,5 +1,7 @@
 <div align="left">
 
+
+
 <div align="center">
   <img src="download (4).jpg" width="100%" height="130" style="object-fit: cover;" alt="Cityscape Wallpaper" />
 </div>
@@ -24,14 +26,33 @@
   <img src="about-bg.svg" width="100%" alt="About Mahesh" />
 </p>
 
+---
 
 <h1 align="left"><samp> Stack </samp></h1>
 
-<p align="left"><samp>Here are the languages, frameworks, and tools I use to build scalable applications:</samp></p>
+<p align="left"><samp>Here are the technologies I work with, categorized by domain:</samp></p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,html,css,tailwind,mongodb,mysql,postgres,docker,git,github,vscode&theme=dark&perline=9" />
-</div>
+<h3 align="left"><samp>💻 Languages</samp></h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=dark" />
+</p>
+
+<h3 align="left"><samp>🌐 Frontend Development</samp></h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+</p>
+
+<h3 align="left"><samp>⚙️ Backend & Databases</samp></h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" />
+</p>
+
+<h3 align="left"><samp>🛠️ Tools & DevOps</samp></h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
+</p>
+
+---
 
 <h1 align="left"><samp> Stats </samp></h1>
 
@@ -41,16 +62,15 @@
   <img width="80%" src="https://streak-stats.demolab.com?user=mahesh-atx&theme=black-ice&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=8B949E&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF" alt="GitHub Streak" />
 </p>
 
+---
+
 <h1 align="left"><samp> Contributions </samp></h1>
 
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh-atx&bg_color=0d1117&color=ffffff&line=8b949e&point=f0f6fc&area=true&hide_border=true&title_color=ffffff&custom_title=Contribution%20Map" alt="Contribution Map" />
 </p>
 
-<br>
-
-
-
+---
 
 <h1 align="left"><samp> Connect </samp></h1>
 
@@ -62,8 +82,10 @@
   <a href="mailto:dongaremahesh10@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+
 <div align="center">
   <img src="download (3).jpg" width="100%" height="130" style="object-fit: cover;" alt="Cityscape Wallpaper" />
 </div>
 
 
+---
