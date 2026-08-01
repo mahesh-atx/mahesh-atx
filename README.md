@@ -6,8 +6,6 @@
   <samp>&gt; developer • builder • problem solver _</samp>
 </h3>
 
-<br>
-
 <p align="center">
   <a href="https://github.com/mahesh-atx?tab=followers"><img src="https://img.shields.io/github/followers/mahesh-atx?style=for-the-badge&color=111111&labelColor=000000&logo=github&logoColor=white" alt="Followers" /></a>
   <a href="https://github.com/mahesh-atx"><img src="https://img.shields.io/github/stars/mahesh-atx?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=111111&labelColor=000000&logo=github&logoColor=white" alt="Stars" /></a>
@@ -52,11 +50,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahesh-atx/mahesh-atx/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
-<br>
 
 
 <h1 align="left"><samp> /connect </samp></h1>
@@ -68,8 +62,6 @@
   <a href="https://www.instagram.com/___spike_07/"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:dongaremahesh10@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<br>
 
 <div align="center">
   <img src="download (1).gif" width="100%" alt="Cityscape Wallpaper" />
