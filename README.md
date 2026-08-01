@@ -1,12 +1,12 @@
-<div align="center">
+<div align="left">
 
-<img width="100%" src="header-bg.svg" alt="Mahesh ATX Header" />
+<h1>Mahesh ATX</h1>
 
-<h3 align="center">
+<h3>
   <samp>&gt; developer • builder • problem solver _</samp>
 </h3>
 
-<p align="center">
+<p>
   <a href="https://github.com/mahesh-atx?tab=followers"><img src="https://img.shields.io/github/followers/mahesh-atx?style=for-the-badge&color=111111&labelColor=000000&logo=github&logoColor=white" alt="Followers" /></a>
   <a href="https://github.com/mahesh-atx"><img src="https://img.shields.io/github/stars/mahesh-atx?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=111111&labelColor=000000&logo=github&logoColor=white" alt="Stars" /></a>
   <a href="https://github.com/mahesh-atx"><img src="https://komarev.com/ghpvc/?username=mahesh-atx&style=for-the-badge&color=111111&label=PROFILE+VIEWS" alt="Profile Views" /></a>
