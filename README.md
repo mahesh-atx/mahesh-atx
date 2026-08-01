@@ -30,27 +30,11 @@
 
 <h1 align="left"><samp> Stack </samp></h1>
 
-<p align="left"><samp>Here are the technologies I work with, categorized by domain:</samp></p>
+<p align="left"><samp>Here are the languages, frameworks, and tools I use to build scalable applications:</samp></p>
 
-<h3 align="left"><samp>💻 Languages</samp></h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=dark" />
-</p>
-
-<h3 align="left"><samp>🌐 Frontend Development</samp></h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
-</p>
-
-<h3 align="left"><samp>⚙️ Backend & Databases</samp></h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" />
-</p>
-
-<h3 align="left"><samp>🛠️ Tools & DevOps</samp></h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,html,css,tailwind,mongodb,mysql,postgres,docker,git,github,vscode&theme=dark&perline=9" />
+</div>
 
 ---
 
