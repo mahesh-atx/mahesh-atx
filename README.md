@@ -1,6 +1,6 @@
 <div align="left">
 
-<h1>Mahesh ATX</h1>
+<h1><samp>Mahesh ATX</samp></h1>
 
 <h3>
   <samp>&gt; developer • builder • problem solver _</samp>
