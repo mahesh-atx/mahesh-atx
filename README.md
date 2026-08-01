@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:30363d,100:161b22&text=Mahesh%20ATX&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20clean%20software%20one%20commit%20at%20a%20time&descAlignY=58&descColor=c9d1d9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ffffff,100:e2e8f0&text=Mahesh%20ATX&fontSize=42&fontFamily=monospace&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Building%20clean%20software%20one%20commit%20at%20a%20time&descAlignY=58&descColor=333333" />
 
 <h3 align="center">
   <samp>&gt; developer • builder • problem solver _</samp>
@@ -63,6 +63,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:161b22,100:30363d" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e2e8f0,100:ffffff" width="100%" />
 </div>
 
