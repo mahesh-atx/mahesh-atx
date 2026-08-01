@@ -59,7 +59,7 @@
 </p>
 
 <div align="center">
-  <img src="download.gif" width="100%" height="250" alt="Cityscape Wallpaper" />
+  <img src="download.gif" width="100%" height="250" style="object-fit: cover;" alt="Cityscape Wallpaper" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:161b22,50:111111,100:0d1117" width="100%" />
