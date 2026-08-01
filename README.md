@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:111111,100:161b22&text=Mahesh%20ATX&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20clean%20software%20one%20commit%20at%20a%20time&descAlignY=58&descColor=c9d1d9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:161b22,50:111111,100:0d1117&text=Mahesh%20ATX&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20clean%20software%20one%20commit%20at%20a%20time&descAlignY=58&descColor=c9d1d9" />
 
 <h3 align="center">
   <samp>&gt; developer • builder • problem solver _</samp>
