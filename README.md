@@ -43,7 +43,7 @@ Style&nbsp;&nbsp; : "Clean architecture, dark UI, meaningful commits"
 </p>
 
 <div align="center">
-  <img src="download.png" width="100%" height="130" style="object-fit: cover;" alt="Cityscape Wallpaper" />
+  <img src="download-stack.png" width="100%" height="130" style="object-fit: cover;" alt="Cityscape Wallpaper" />
 </div>
 
 ---
