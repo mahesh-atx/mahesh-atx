@@ -54,14 +54,6 @@ Style&nbsp;&nbsp; : "Clean architecture, dark UI, meaningful commits"
 
 ---
 
-<h1 align="left"><samp> Trophies </samp></h1>
-
-<p align="">
-  <img width="70%" src="https://github-profile-trophy-unserori.vercel.app/?username=mahesh-atx&theme=onedark&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
 <h1 align="left"><samp> Contributions </samp></h1>
 
 <p align="">
