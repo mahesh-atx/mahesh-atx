@@ -8,6 +8,11 @@
         <animate attributeName="width" from="0" to="800" dur="3s" begin="0.5s" fill="freeze"/>
       </rect>
     </clipPath>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#79c0ff"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
   </defs>
   
   <style>
@@ -15,6 +20,7 @@
     .title { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 48px; fill: #ffffff; font-weight: bold; }
     .tag { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 28px; fill: #e6edf3; }
     .cursor { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 28px; fill: #e6edf3; animation: blink 1s step-end infinite; }
+    .status { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 16px; fill: #8b949e; }
   </style>
 
   <!-- Background Image with cropping to fit -->
@@ -22,6 +28,28 @@
   
   <!-- Subtle dark overlay to make text readable -->
   <rect width="800" height="250" fill="rgba(13, 17, 23, 0.6)" />
+
+  <!-- Floating particles -->
+  <g>
+    <circle cx="70" cy="240" r="2" fill="#58a6ff"><animate attributeName="cy" values="240;30" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="160" cy="240" r="1.5" fill="#79c0ff"><animate attributeName="cy" values="240;20" dur="10s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="270" cy="240" r="2" fill="#8b949e"><animate attributeName="cy" values="240;40" dur="9s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="240" r="1.5" fill="#58a6ff"><animate attributeName="cy" values="240;25" dur="11s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="240" r="2.5" fill="#79c0ff"><animate attributeName="cy" values="240;35" dur="7s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="630" cy="240" r="1.5" fill="#8b949e"><animate attributeName="cy" values="240;30" dur="12s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="740" cy="240" r="2" fill="#58a6ff"><animate attributeName="cy" values="240;20" dur="9.5s" begin="2.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="9.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Glowing accent line under title -->
+  <rect x="40" y="118" width="350" height="2" rx="1" fill="url(#accent)">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Open to work indicator -->
+  <circle cx="640" cy="50" r="5" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text class="status" x="654" y="55">open to work</text>
 
   <text class="title" x="40" y="105">&gt; Mahesh ATX</text>
   
