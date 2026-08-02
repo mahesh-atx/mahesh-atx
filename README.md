@@ -21,14 +21,14 @@
 ---
 
 <h1 align="left"><samp> About </samp></h1>
-<h3><samp>
-<b><font color="#58a6ff">&gt; ./execute_profile.sh</font></b><br><br>
-Name&nbsp;&nbsp;&nbsp; : Mahesh<br>
-Handle&nbsp; : @mahesh-atx<br>
-Mission : "Always building something better than yesterday 🚀"<br>
-Focus&nbsp;&nbsp; : [Data Science, AI/ML, Full-Stack]<br>
-Style&nbsp;&nbsp; : "Clean architecture, dark UI, meaningful commits"
-</samp></h3>
+
+<samp><b><font color="#58a6ff">&gt; ./execute_profile.sh</font></b></samp><br><br>
+
+| <samp>Name</samp> | <samp>: Mahesh</samp> |
+| <samp>Handle</samp> | <samp>: @mahesh-atx</samp> |
+| <samp>Mission</samp> | <samp>: "Always building something better than yesterday 🚀"</samp> |
+| <samp>Focus</samp> | <samp>: [Data Science, AI/ML, Full-Stack]</samp> |
+| <samp>Style</samp> | <samp>: "Clean architecture, dark UI, meaningful commits"</samp> |
 
 
 
