@@ -43,7 +43,7 @@ Style&nbsp;&nbsp; : "Clean architecture, dark UI, meaningful commits"
 </p>
 
 <div align="center">
-  <img src="download.jpg" width="100%" height="130" style="object-fit: cover;" alt="Cityscape Wallpaper" />
+  <img src="download.png" width="100%" height="130" style="object-fit: cover;" alt="Cityscape Wallpaper" />
 </div>
 
 ---
@@ -53,7 +53,7 @@ Style&nbsp;&nbsp; : "Clean architecture, dark UI, meaningful commits"
 
 
 <p align="">
-  <img width="70%" src="https://streak-stats.demolab.com?user=mahesh-atx&theme=black-ice&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=8B949E&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF" alt="GitHub Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=mahesh-atx&theme=black-ice&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=8B949E&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF" alt="GitHub Streak" />
 </p>
 
 ---
