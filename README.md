@@ -63,7 +63,6 @@ Style&nbsp;&nbsp; : "Clean architecture, dark UI, meaningful commits"
     <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" height="40" /></a></td>
     <td align="center"><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/8b949e" alt="GitHub" title="GitHub" height="40" /></a></td>
     <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/linux/8b949e" alt="Linux" title="Linux" height="40" /></a></td>
-    <td align="center"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" height="40" /></a></td>
   </tr>
 </table>
 
