@@ -36,34 +36,34 @@ Style&nbsp;&nbsp; : "Clean architecture, dark UI, meaningful commits"
 
 <table align="center" cellpadding="8">
   <tr>
-    <td align="center"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" height="40" /></a></td>
-    <td align="center"><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" height="40" /></a></td>
-    <td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" height="40" /></a></td>
-    <td align="center"><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" height="40" /></a></td>
-    <td align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" height="40" /></a></td>
-    <td align="center"><a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" height="40" /></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="40" /></a></td>
-    <td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="40" /></a></td>
+    <td align="center"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" height="40" /></a></td>
+    <td align="center"><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" title="TensorFlow" height="40" /></a></td>
+    <td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" height="40" /></a></td>
+    <td align="center"><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/numpy" alt="NumPy" title="NumPy" height="40" /></a></td>
+    <td align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pandas/8b949e" alt="Pandas" title="Pandas" height="40" /></a></td>
+    <td align="center"><a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" title="Jupyter" height="40" /></a></td>
+    <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/scikitlearn" alt="Scikit-learn" title="Scikit-learn" height="40" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" height="40" /></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" height="40" /></a></td>
-    <td align="center"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" height="40" /></a></td>
-    <td align="center"><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="40" /></a></td>
-    <td align="center"><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express" height="40" /></a></td>
-    <td align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" height="40" /></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="40" /></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="40" /></a></td>
-    <td align="center"><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" height="40" /></a></td>
+    <td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" height="40" /></a></td>
+    <td align="center"><a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="40" /></a></td>
+    <td align="center"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs/8b949e" alt="Next.js" title="Next.js" height="40" /></a></td>
+    <td align="center"><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" height="40" /></a></td>
+    <td align="center"><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/express/8b949e" alt="Express" title="Express" height="40" /></a></td>
+    <td align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" height="40" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/html5" alt="HTML5" title="HTML5" height="40" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/css" alt="CSS3" title="CSS3" height="40" /></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="40" /></a></td>
-    <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="40" /></a></td>
-    <td align="center"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="40" /></a></td>
-    <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="40" /></a></td>
-    <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" height="40" /></a></td>
-    <td align="center"><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" height="40" /></a></td>
-    <td align="center"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" height="40" /></a></td>
-    <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" height="40" /></a></td>
+    <td align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" title="MongoDB" height="40" /></a></td>
+    <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" height="40" /></a></td>
+    <td align="center"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="40" /></a></td>
+    <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="40" /></a></td>
+    <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" height="40" /></a></td>
+    <td align="center"><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/8b949e" alt="GitHub" title="GitHub" height="40" /></a></td>
+    <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/linux/8b949e" alt="Linux" title="Linux" height="40" /></a></td>
+    <td align="center"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" height="40" /></a></td>
   </tr>
 </table>
 
