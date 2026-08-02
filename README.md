@@ -48,21 +48,6 @@ Style&nbsp;&nbsp; : "Clean architecture, dark UI, meaningful commits"
 
 ---
 
-<h1 align="left"><samp> Projects </samp></h1>
-
-<table align="center" cellpadding="8">
-  <tr>
-    <td align="center"><a href="https://github.com/mahesh-atx/Zeno-cli-agent" target="_blank" rel="noreferrer"><img src="https://github-readme-card.vercel.app/api/pin?username=mahesh-atx&repo=Zeno-cli-agent&theme=dark" alt="Zeno CLI Agent" /></a></td>
-    <td align="center"><a href="https://github.com/mahesh-atx/Data_Science" target="_blank" rel="noreferrer"><img src="https://github-readme-card.vercel.app/api/pin?username=mahesh-atx&repo=Data_Science&theme=dark" alt="Data Science" /></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/mahesh-atx/LYNQ-2.0" target="_blank" rel="noreferrer"><img src="https://github-readme-card.vercel.app/api/pin?username=mahesh-atx&repo=LYNQ-2.0&theme=dark" alt="LYNQ 2.0" /></a></td>
-    <td align="center"><a href="https://github.com/mahesh-atx/Sp_crime_investigation_project" target="_blank" rel="noreferrer"><img src="https://github-readme-card.vercel.app/api/pin?username=mahesh-atx&repo=Sp_crime_investigation_project&theme=dark" alt="Crime Investigation Dashboard" /></a></td>
-  </tr>
-</table>
-
----
-
 <h1 align="left"><samp> Stats </samp></h1>
 
 
@@ -78,15 +63,6 @@ Style&nbsp;&nbsp; : "Clean architecture, dark UI, meaningful commits"
 <p align="">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh-atx&bg_color=0d1117&color=ffffff&line=8b949e&point=f0f6fc&area=true&hide_border=true&title_color=ffffff&custom_title=Contribution%20Map" alt="Contribution Map" />
 </p>
-
----
-
-<h1 align="left"><samp> Recent Activity </samp></h1>
-
-<pre>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</pre>
 
 ---
 
