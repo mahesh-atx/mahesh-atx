@@ -10,7 +10,7 @@
 </p>
 
 
-<p align="center">
+<p align="">
   <a href="https://github.com/mahesh-atx?tab=followers"><img src="https://img.shields.io/github/followers/mahesh-atx?style=for-the-badge&color=111111&labelColor=000000&logo=github&logoColor=white" alt="Followers" /></a>
   <a href="https://github.com/mahesh-atx"><img src="https://img.shields.io/github/stars/mahesh-atx?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=111111&labelColor=000000&logo=github&logoColor=white" alt="Stars" /></a>
 </p>
@@ -53,7 +53,7 @@ Style&nbsp;&nbsp; : "Clean architecture, dark UI, meaningful commits"
 
 
 <p align="">
-  <img width="100%" src="https://streak-stats.demolab.com?user=mahesh-atx&theme=black-ice&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=8B949E&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=mahesh-atx&theme=black-ice&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=8B949E&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF" alt="GitHub Streak" />
 </p>
 
 ---
